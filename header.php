@@ -10,7 +10,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
-?>
+?>   
 <!doctype html>
 <html <?php language_attributes(); ?>>
 <head>
